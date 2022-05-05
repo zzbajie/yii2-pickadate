@@ -1,9 +1,10 @@
 <?php
 
-namespace zzbajie\extensions;
+namespace zzbajie\pickadate;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
+use zzbajie\pickadate\assets\PickadateAsset;
 
 class Pickadate extends \yii\widgets\InputWidget
 {
